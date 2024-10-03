@@ -1,0 +1,9 @@
+
+The name of the animal: Dumbo
+The genus of the animal: elephant
+The name of the animal: Babe
+The genus of the animal: pig
+The name of the animal: Rocket
+The genus of the animal: raccoon
+The name of the animal: Ricky
+The genus of the animal: dog
